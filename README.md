@@ -1,5 +1,11 @@
 # ⏰ Digital Clock Using JavaScript
 
+---
+
+## Demo
+
+![Image](https://github.com/user-attachments/assets/b77b6b8a-24d5-4210-ace8-089365898f8f)
+
 A clean and responsive **digital clock** built using JavaScript, HTML, and CSS. This clock updates in real time to display the current hours, minutes, and seconds with a modern aesthetic.
 
 ---
@@ -44,7 +50,26 @@ setInterval(() => {
     sec.innerHTML = (currentTime.getSeconds() < 10 ? "0" : "") + currentTime.getSeconds();
 }, 1000);
 ```
+🙋‍♀️ Author
+Linga Bhavana – Frontend Developer
 
-## Demo
+GitHub | urstrulybhavana1432@gmail.com
 
-![Image](https://github.com/user-attachments/assets/b77b6b8a-24d5-4210-ace8-089365898f8f)
+---
+
+
+📬 **Contact**
+
+For questions or suggestions, feel free to reach out:
+
+- 📧 **Email**: [urstrulybhavana1432@gmail.com](mailto:urstrulybhavana1432@gmail.com)  
+- 🐙 **GitHub**: [UrstrulyBhavana](https://github.com/UrstrulyBhavana)
+
+
+---
+
+📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+
